@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chatbot-dev-5d084-authRole",
+      "UnauthRoleArn": "arn:aws:iam::381492177578:role/amplify-chatbot-dev-5d084-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::381492177578:role/amplify-chatbot-dev-5d084-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-chatbot-dev-5d084-deployment",
+      "UnauthRoleName": "amplify-chatbot-dev-5d084-unauthRole",
+      "StackName": "amplify-chatbot-dev-5d084",
+      "StackId": "arn:aws:cloudformation:us-east-1:381492177578:stack/amplify-chatbot-dev-5d084/4f346800-ef2f-11ee-b104-12362d5768d1",
+      "AmplifyAppId": "d37i5sxs10qn0n"
+    },
+    "categories": {
+      "auth": {
+        "chatbot46c7fbac": {}
+      },
+      "function": {
+        "S3Trigger4b56249d": {
+          "deploymentBucketName": "amplify-chatbot-dev-5d084-deployment",
+          "s3Key": "amplify-builds/S3Trigger4b56249d-4663466e353442666b42-build.zip"
+        }
+      },
+      "storage": {
+        "storagebot": {}
+      },
+      "api": {
+        "chatbot": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "resourceName": "storagebot",
+  "policyUUID": "74d4b7cc",
+  "bucketName": "bot",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger4b56249d",
+  "groupAccess": {}
+}
